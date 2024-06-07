@@ -1,6 +1,6 @@
 # GitLab
 
-[My GitLab](https://gitlab.com/modle13)
+[My GitLab](https://gitlab.com/users/modle13/projects)
 
 # Portfolio
 
